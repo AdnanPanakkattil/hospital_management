@@ -1,0 +1,44 @@
+li:hover{
+    background-color: gray;
+    border-radius: 10px;
+    border: 1px solid yellow
+}
+.carousel-item img{
+    width: 100%;
+    height: 70vh;
+}  
+
+@media (max-width:1200px){
+.carousel-item img{
+    width: 100%;
+    height: 70vh;
+  }    
+}
+
+@media (max-width:1200px){
+.carousel-item img{
+    width: 100%;
+    height: 70vh;
+  }    
+}
+
+@media (max-width:992px){
+.carousel-item img{
+    width: 100%;
+    height: 70vh;
+  }    
+}
+
+@media (max-width:768px){
+.carousel-item img{
+    width: 100%;
+    height: 70vh;
+  }    
+}
+
+@media (max-width:600px){
+.carousel-item img{
+    width: 100%;
+    height: 50vh;
+   }    
+}
