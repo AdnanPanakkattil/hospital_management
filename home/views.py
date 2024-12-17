@@ -39,3 +39,6 @@ def department(reguest):
       'dept':Departments.objects.all()
    }
    return render(reguest, 'department.html',dict_dept)
+
+
+#ttttt
